@@ -96,5 +96,5 @@ This repository focuses on **process design and automation thinking**, not produ
 Recommended reviewers: recruiters, hiring managers, and RPA practitioners.
 
 ## Author
-Ivana Rppsyelin — RPA / Process Automation
+Ivana Roosyelin — RPA / Process Automation
 
